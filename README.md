@@ -2,11 +2,11 @@
 
 ### Used Package
 
-- `pandas==V2.2.2` (pemrosesan data)
-- `numpy==1.26.4` (pemrosesan data)
-- `matplotlib==3.9.1` (plot grafik)
-- `statsmodels==0.14.2` (pembangunan model SARIMA)
-- `scikit-learn==1.5.1` (evaluasi model)
+- `pandas==V2.2.2` (Data processing)
+- `numpy==1.26.4` (Data processing)
+- `matplotlib==3.9.1` (Data plot)
+- `statsmodels==0.14.2` (Modelling)
+- `scikit-learn==1.5.1` (Model Evaluation)
 
 ### How to Run it?
 
