@@ -10,7 +10,7 @@
 
 ### How to Run it?
 
-You can use code in main.py, there's main function named `forecast_and_save_to_csv` which do the forecast and save the prediction in given filename.
+You can use code in `main.py`, there's main function named `forecast_and_save_to_csv` which do the forecast and save the prediction in given filename to .csv file.
 this function require :
 
 - `forecast_m`, an integer representing how far do we want to forecast in months. e.g 6 means the model will predict the next 6 months after the start date
