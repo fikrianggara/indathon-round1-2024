@@ -19,12 +19,12 @@ this function require :
 
 ### Script
 
-usable code can be found in `main.py`. There are functions that I used to do the forecasting start from importing data, transform, modelling and forecasting.
-there's also documentation of each function. There's also `main.ipynb` notebook that I use to explore and analysing the data and the model.
+usable code can be found in `main.py`. There are functions that I use to do the forecast, starts from importing data, transform, modelling and forecasting.
+Each function has their documentation. There's also `main.ipynb` notebook that I use to explore and analysing the data and the model.
 
 ### Resource used
 
-the data input used about 2.7KB of memory
+The data input takes about 2.7KB of memory
 
 ### Total Execution Time
 
