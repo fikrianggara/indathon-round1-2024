@@ -1,5 +1,9 @@
 # Indathon Round1 Solution
 
+This repo contain solution for Indathon, a data hackathon held by Statistics Indonesia (BPS) in collaboration with others ministry and Australian Bureau of Statistics (ABS).
+the challenge is to create a prediction model with minimum RMSE to predict numbers of Transjakarta Passengers based on past passengers data and some auxiliary data.
+We use SARIMAX to build the prediction model.
+
 ### Used Package
 
 - `pandas==V2.2.2` (Data processing)
